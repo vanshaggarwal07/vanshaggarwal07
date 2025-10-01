@@ -46,7 +46,7 @@
 
 <img src="https://raw.githubusercontent.com/vanshaggarwal07/vanshaggarwal07/output/snake.svg" alt="Snake animation" />
 
-alt="Snake animation" />
+
 
 ---
 
