@@ -15,7 +15,7 @@
   🫂 Looking to collaborate on Open Source Projects <br>    
   🏆 Hackathon Winner <br>      
   📫 vanshaggarwal07@gmail.com <br>  
-  🕸️ <a href="https://your-portfolio-link.com">My Portfolio</a> 
+  🕸️ <a href="https://solo.to/vanshaggarwal">My Portfolio</a> 
 </div>
 
 <br><br><br>
