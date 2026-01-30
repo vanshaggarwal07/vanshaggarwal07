@@ -13,7 +13,7 @@
   🤖 Intern @ Defence Research and Development Organisation (DRDO) <br>         
   👾 Building Platforms & Projects <br>   
   🫂 Looking to collaborate on Open Source Projects <br>    
-  🏆 Hackathon Winner <br>      
+  🏆 3x Hackathon Winner <br>      
   📫 vanshaggarwal07@gmail.com <br>  
   🕸️ <a href="https://solo.to/vanshaggarwal">My Portfolio</a> 
 </div>
