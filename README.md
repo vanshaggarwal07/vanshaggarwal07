@@ -10,7 +10,7 @@
   👀 AI/ML & Web3 <br>            
   👽 Contributor @ Hacktober'24 <br>      
   ⭐ GSSoC Contributor <br>      
-  🤖 Ex-Intern @ Defence Research and Development Organisation (DRDO) <br>         
+  🤖 Ex-Intern @Defence Research and Development Organisation(DRDO) <br>         
   👾 Building Platforms & Projects <br>   
   🫂 Looking to collaborate on Open Source Projects <br>    
   🏆 4x Hackathon Winner <br>      
