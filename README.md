@@ -7,13 +7,13 @@
 [![](https://visitcount.itsvg.in/api?id=vanshaggarwal07&icon=0&color=0)](https://visitcount.itsvg.in)   
 
 <div align="left">      
-  👀 Exploring AI/ML & Web3 <br>            
+  👀 AI/ML & Web3 <br>            
   👽 Contributor @ Hacktober'24 <br>      
   ⭐ GSSoC Contributor <br>      
-  🤖 Intern @ Defence Research and Development Organisation (DRDO) <br>         
+  🤖 Ex-Intern @ Defence Research and Development Organisation (DRDO) <br>         
   👾 Building Platforms & Projects <br>   
   🫂 Looking to collaborate on Open Source Projects <br>    
-  🏆 3x Hackathon Winner <br>      
+  🏆 4x Hackathon Winner <br>      
   📫 vanshaggarwal07@gmail.com <br>  
   🕸️ <a href="https://solo.to/vanshaggarwal">My Portfolio</a> 
 </div>
