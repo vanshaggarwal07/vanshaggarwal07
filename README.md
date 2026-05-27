@@ -22,6 +22,10 @@
 <br><br><br>
 
 <div id="badges" align="center">
+  
+  <a href="https://vansh-portfoliio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+</a>
   <a href="https://www.linkedin.com/in/vanshaggarwal07/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
