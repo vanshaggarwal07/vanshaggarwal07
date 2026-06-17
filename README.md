@@ -8,10 +8,10 @@
 
 <div align="left">      
   🚀 SDE Intern @ Paytm <br> 
+  🤖 Ex-Intern@Defence Research and Development Organisation(DRDO) <br>   
+  ⭐ GSSoC Mentor'26 <br> 
   👀 AI/ML & Web3 <br>            
-  👽 Contributor @ Hacktober'24 <br>      
-  ⭐ GSSoC Contributor <br>      
-  🤖 Ex-Intern@Defence Research and Development Organisation(DRDO) <br>         
+  👽 Contributor @ Hacktober'24 <br>             
   👾 Building Platforms & Projects <br>   
   🫂 Looking to collaborate on Open Source Projects <br>    
   🏆 4x Hackathon Winner <br>      
